@@ -1,12 +1,12 @@
 # Post Engineer Candidate Coding Exercise
 ____
 
-*Author:* David M. Miller
-*Website:* https://www.qdavid.com/
-*Subject:* Wordpress Custom Post Type Example
+* Author:   David M. Miller
+* Website:  https://www.qdavid.com/
+* Subject:  Wordpress Custom Post Type Example
 ____
 
-
+```
                                                  .------.------.    
   +-------------+                     ___        |      |      |    
   |             |                     \ /]       |      |      |    
@@ -26,4 +26,4 @@ ____
   |             | [/]     []| |_  |                  |              
   |             | [\]     []|___) |                  |             
  ====================================================================
-
+```
